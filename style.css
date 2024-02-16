@@ -1,12 +1,13 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: "Roboto", sans-serif;
 }
 
 header {
     width: 100%;
     height: 100vh;
-    background: url(header_bg.webp);
+    background: url(https://as2.ftcdn.net/v2/jpg/02/30/76/53/1000_F_230765350_F7Ei3SreafcbBc0o9GtxH5qHcL3eDziI.jpg);
     background-size: cover;
     display: flex;
 }
@@ -114,4 +115,8 @@ footer {
     align-items: center;
     justify-content: center;
     color: white;
+}
+.text_wrap{
+    background-color: rgba(200, 200, 200, 0.7);
+    padding: 20px;
 }
