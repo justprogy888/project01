@@ -132,3 +132,6 @@ footer {
     height: 100vh;
     background-color: rgba(50,50,50,0.5);
 }
+.examples{
+    margin-top: 10px;
+}
