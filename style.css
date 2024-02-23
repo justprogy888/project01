@@ -120,3 +120,15 @@ footer {
     background-color: rgba(200, 200, 200, 0.7);
     padding: 20px;
 }
+.section_item:hover{
+    transform: scale(1.5);
+}
+.section_item{
+    transition: transform 1s ease-out; 
+    transition-delay: 0.3s;
+}
+.shadow{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(50,50,50,0.5);
+}
